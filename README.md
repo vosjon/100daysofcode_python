@@ -6,3 +6,5 @@ Completed Projects:
 [Day One - Band Name Generator](https://github.com/vosjon/100daysofcode_python/blob/main/day_one/bandnamegenerator.py)
 
 [Day Two - Tip Calculator](https://github.com/vosjon/100daysofcode_python/blob/main/day_two/tipcalculator.py)
+
+[Day Three - Treasure Island Game](https://github.com/vosjon/100daysofcode_python/blob/main/day_three/teasureisland.py)
