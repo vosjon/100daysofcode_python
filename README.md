@@ -8,3 +8,5 @@ Completed Projects:
 [Day Two - Tip Calculator](https://github.com/vosjon/100daysofcode_python/blob/main/day_two/tipcalculator.py)
 
 [Day Three - Treasure Island Game](https://github.com/vosjon/100daysofcode_python/blob/main/day_three/teasureisland.py)
+
+[Day Four - Rock, Paper, Scissors](https://github.com/vosjon/100daysofcode_python/blob/main/day_four/rockpaperscissors.py)
