@@ -16,3 +16,5 @@ Completed Projects:
 [Day Six - Reeborg's World](https://reeborg.ca/index_en.html) Day six involved playing various Reeborg's world game and using while loops to solve the hurdles games along with the maze.
 
 [Day Seven - Hangman](https://github.com/vosjon/100daysofcode_python/blob/main/day_seven/hangman.py)
+
+[Day Eight - Caesar Cipher](https://github.com/vosjon/100daysofcode_python/blob/main/day_eight/caesarcipher.py)
